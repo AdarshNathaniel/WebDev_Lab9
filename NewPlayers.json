@@ -1,0 +1,44 @@
+[
+  {
+    "firstname": "Mayank",
+    "lastname": "Agarwal",
+    "nationality": "India",
+    "batting": "Right-Handed",
+    "bowling": "Right-arm-off-break"
+  },
+  {
+    "firstname": "Harry",
+    "lastname": "Brook",
+    "nationality": "England",
+    "batting": "Right-Handed",
+    "bowling": "Right-arm-medium"
+  },
+  {
+    "firstname": "Heinrich",
+    "lastname": "Klaasen",
+    "nationality": "South Africa",
+    "batting": "Right-Handed",
+    "bowling": "Right-arm-off-spin"
+  },
+  {
+    "firstname": "Adil",
+    "lastname": "Rashid",
+    "nationality": "England",
+    "batting": "Right-Handed",
+    "bowling": "Right-arm-leg-break"
+  },
+  {
+    "firstname": "Akeal",
+    "lastname": "Hosein",
+    "nationality": "WestIndies",
+    "batting": "Left-handed",
+    "bowling": "Slow-left-arm-orthodox"
+  },
+  {
+    "firstname": "Mayank",
+    "lastname": "Markande",
+    "nationality": "India",
+    "batting": "Right-Handed",
+    "bowling": "Right-arm-leg-break"
+  }
+]
